@@ -16,12 +16,3 @@
     font-size: 50px;
     text-align: center;
 }
-
-.domus-homeCard {
-    box-shadow: 0px 4px 8px;
-    width: 25%;
-    box-sizing: auto;
-    border: 0cm;
-    border-color: rgba(0, 0, 0, 0);
-    color: rgb(0, 0, 0);
-}

@@ -1,0 +1,27 @@
+.domus-title {
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(128, 128, 128, 0.806);
+    border: 1dvh;
+    padding-left: 1cm;
+    padding-top: .5cm;
+    font-size: 38px;
+}
+
+.domus-presentation {
+    font-family: "Nanum Myeongjo", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.domus-homeCard {
+    box-shadow: 0px 4px 8px;
+    width: 25%;
+    box-sizing: auto;
+    border: 0cm;
+    border-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0);
+}

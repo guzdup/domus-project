@@ -1,9 +1,12 @@
+
 body {
     background-color: antiquewhite;
     display: grid;
 }
 
-.App {
-    display: flex;
-    flex-direction: row;
+.home-Section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    scroll-behavior: smooth;
 }

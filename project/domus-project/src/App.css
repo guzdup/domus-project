@@ -6,12 +6,14 @@
     border: 1dvh;
     padding-left: 1cm;
     padding-top: .5cm;
-    font-size: 38px;
+    font-size: 40px;
+    text-align: center;
+    scroll-behavior: smooth;
 }
 
 .domus-presentation {
     font-family: "Nanum Myeongjo", serif;
-    font-weight: 800;
+    font-weight: 500;
     font-style: normal;
     font-size: 50px;
     text-align: center;

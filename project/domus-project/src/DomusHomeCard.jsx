@@ -1,9 +1,12 @@
 import './DomusHomeCard.css'
 
 function DomusHomeCard({price, formatPrice, image, numberBedrooms, numberBathrooms, location}) {
+
+
     return(
         <div className="domus-homeCard">
-            <img className='domus-homeCard-picture' src= {image} alt='houseImg'/> 
+            <img className='domus-homeCard-picture' src= {image} alt='houseImg'/>
+            
             <strong className='domus-homeCard-price'>
                 {formatPrice(price)}
             </strong>
